@@ -1,0 +1,45 @@
+.yo {
+  background-color: #E8F9FD;
+  height: 100vh;
+}
+
+.btn{
+  position: absolute;
+  top: 50%;
+  left: 45%;
+
+  
+
+}
+.trans {
+  /* position: absolute;
+  top: 50%; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+
+}
+button {
+  padding: 5px;
+  margin: 10px;
+  border: none;
+  background-color: #0AA1DD;
+  background: transparent;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+
+
+.stop{
+  color: #0AA1DD;
+}
+.stop:hover{
+  font-size: 2.3rem;
+  color: #2155CD;
+}
+button:hover{
+  color: red;
+  /* font-size: 2.2rem; */
+}
